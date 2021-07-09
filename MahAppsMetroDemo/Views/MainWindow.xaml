@@ -45,5 +45,6 @@
 
     <Grid>
         <!--  Your content  -->
+        <DatePicker/>
     </Grid>
 </mah:MetroWindow>
